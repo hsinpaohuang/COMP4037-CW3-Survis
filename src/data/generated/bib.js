@@ -72,7 +72,7 @@
         "year": "2015"
     },
     "851975": {
-        "author": "Li Fan and Pei Cao and Almeida, J. and Broder, A.Z.",
+        "author": "Fan, Li and Cao, Pei and Almeida, J. and Broder, A.Z.",
         "doi": "10.1109/90.851975",
         "journal": "IEEE/ACM Transactions on Networking",
         "keywords": "Cache memory;Internet;Bandwidth;Computer science;Routing protocols;Telecommunication traffic;Particle measurements;Virtual prototyping;Bit rate;Data analysis",
@@ -85,7 +85,8 @@
     },
     "carrea2016yesno": {
         "archiveprefix": "arXiv",
-        "author": "Laura Carrea and Alexei Vernitski and Martin Reed",
+        "author": "Carrea, Laura and Vernitski, Alexei and Reed, Martin",
+        "doi": "10.48550/arXiv.1603.01060",
         "eprint": "1603.01060",
         "primaryclass": "cs.DS",
         "title": "Yes-no Bloom filter: A way of representing sets with fewer false positives",
@@ -94,7 +95,8 @@
     },
     "donnet2006retouched": {
         "archiveprefix": "arXiv",
-        "author": "Benoit Donnet and Bruno Baynat and Timur Friedman",
+        "author": "Donnet, Benoit and Baynat, Bruno and Friedman, Timur",
+        "doi": "10.48550/arXiv.cs/0607038",
         "eprint": "cs/0607038",
         "primaryclass": "cs.NI",
         "title": "Retouched Bloom Filters: Allowing Networked Applications to Flexibly Trade Off False Positives Against False Negatives",
@@ -103,7 +105,8 @@
     },
     "goodrich2015invertible": {
         "archiveprefix": "arXiv",
-        "author": "Michael T. Goodrich and Michael Mitzenmacher",
+        "author": "Goodrich, Michael T. and Mitzenmacher, Michael",
+        "doi": "10.48550/arXiv.1101.2245",
         "eprint": "1101.2245",
         "primaryclass": "cs.DS",
         "title": "Invertible Bloom Lookup Tables",
