@@ -1,3 +1,11 @@
+# COMP4037 Coursework 3 SurVis
+
+This repo contains the SurVis of 10 papers which I reviewed for the coursework.
+
+[URL to SurVis repo](https://github.com/fabian-beck/survis)
+
+---
+
 # SurVis - Visual Literature Browser
 
 ![Screenshot](/doc/survis.png)
